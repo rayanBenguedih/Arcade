@@ -1,0 +1,5 @@
+arcade_nibbler
+arcade_pacman
+arcade_qix
+arcade_centipede
+arcade_solarfox

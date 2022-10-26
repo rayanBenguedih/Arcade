@@ -1,0 +1,13 @@
+arcade_ndk++
+arcade_aalib
+arcade_libcaca
+arcade_allegro5
+arcade_xlib
+arcade_gtk+
+arcade_sfml
+arcade_irrlicht
+arcade_opengl
+arcade_vulkan
+arcade_qt5
+arcade_ncurses
+arcade_sdl2
